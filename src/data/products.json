@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create ATS-friendly resumes with modern templates.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "FileText"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Generator",
+    "description": "Build a personal portfolio website in minutes.",
+    "price": 19.99,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Custom domains", "Responsive design", "SEO optimized"],
+    "icon": "Globe"
+  },
+  {
+    "id": 3,
+    "name": "Cover Letter AI",
+    "description": "Generate job-winning cover letters instantly.",
+    "price": 4.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["AI writing", "Multiple formats", "Download options"],
+    "icon": "PenTool"
+  },
+  {
+    "id": 4,
+    "name": "LinkedIn Optimizer",
+    "description": "Boost your LinkedIn profile visibility.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Profile analysis",
+      "Keyword suggestions",
+      "Headline generator"
+    ],
+    "icon": "Linkedin"
+  },
+  {
+    "id": 5,
+    "name": "Job Tracker",
+    "description": "Track all your job applications in one place.",
+    "price": 0,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Application tracking", "Status updates", "Reminders"],
+    "icon": "CheckSquare"
+  },
+  {
+    "id": 6,
+    "name": "Interview Prep Kit",
+    "description": "Practice common interview questions with AI feedback.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Mock interviews", "AI feedback", "Question bank"],
+    "icon": "Mic"
+  },
+  {
+    "id": 7,
+    "name": "Freelance Proposal Maker",
+    "description": "Create high-converting freelance proposals.",
+    "price": 7.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Proposal templates",
+      "Client personalization",
+      "Export options"
+    ],
+    "icon": "Briefcase"
+  },
+  {
+    "id": 8,
+    "name": "Skill Assessment Tool",
+    "description": "Test and showcase your professional skills.",
+    "price": 24.99,
+    "period": "yearly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Skill tests", "Certificates", "Performance reports"],
+    "icon": "Award"
+  }
+]
