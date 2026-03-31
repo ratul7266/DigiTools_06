@@ -1,16 +1,54 @@
-# React + Vite
+# DigiTools
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+**DigiTools** is a premium digital tools platform where users can access a wide range of AI-powered tools and resources in one place.
+From AI writing tools to design templates and premium stock assets — everything is just one click away.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* Tailwind CSS
+* DaisyUI
+* JavaScript (ES6+)
+* React-Toastify
+* JSON (for product data)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+* Premium Digital Tools collection (AI Writing, Design Assets, etc.)
+* Easy-to-use shopping system
+* Dynamic stats & active users display
+
+---
+
+## Components Overview
+
+* **Navbar**
+  Navigation bar with cart indicator for quick access to selected items.
+
+* **Banner**
+  Hero section with strong call-to-actions to engage users instantly.
+
+* **ActiveUsers**
+  Animated counters showing active users, available tools, and ratings.
+
+* **Products**
+  Displays all digital products with an option to toggle cart view.
+
+* **Pricing**
+  Subscription plans with highlighted featured packages.
+
+* **Workflow**
+  Step-by-step presentation of how the platform works or key features.
+
+* **Footer**
+  Contains company information, product links, and social media icons.
+
+---
+
+# Thank You

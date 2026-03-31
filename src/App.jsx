@@ -1,5 +1,5 @@
 import './App.css'
-import Products from './data/products.json';
+
 
 function App() {
   
