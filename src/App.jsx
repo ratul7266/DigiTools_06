@@ -1,14 +1,13 @@
-import './App.css'
-
+import "./App.css";
+import NavBar from "./component/NavBar";
 
 function App() {
-  
-
   return (
     <>
-    <h1 className='text-center text-4xl font-bold'>hello bangladesh!</h1>
+      <NavBar></NavBar>
+      
     </>
-  )
+  );
 }
 
-export default App
+export default App;
