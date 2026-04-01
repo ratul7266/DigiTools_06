@@ -1,98 +1,112 @@
 [
   {
     "id": 1,
-    "name": "Resume Builder Pro",
-    "description": "Create ATS-friendly resumes with modern templates.",
-    "price": 9.99,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
     "period": "monthly",
-    "tag": "popular",
-    "tagType": "popular",
-    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
-    "icon": "FileText"
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": ["Unlimited AI generations", "SEO optimization", "Export to PDF"],
+    "icon": "📝"
   },
   {
     "id": 2,
-    "name": "Portfolio Generator",
-    "description": "Build a personal portfolio website in minutes.",
-    "price": 19.99,
-    "period": "one-time",
-    "tag": "best seller",
-    "tagType": "best seller",
-    "features": ["Custom domains", "Responsive design", "SEO optimized"],
-    "icon": "Globe"
+    "name": "DesignMaster AI",
+    "description": "Create stunning graphics, social media posts, and banners effortlessly.",
+    "price": 49,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["AI-powered templates", "Drag-and-drop editor", "High-resolution export"],
+    "icon": "🎨"
   },
   {
     "id": 3,
-    "name": "Cover Letter AI",
-    "description": "Generate job-winning cover letters instantly.",
-    "price": 4.99,
+    "name": "CodeBuddy AI",
+    "description": "AI assistant to help you write, debug, and optimize your code in multiple languages.",
+    "price": 59,
     "period": "monthly",
-    "tag": "new",
+    "tag": "New",
     "tagType": "new",
-    "features": ["AI writing", "Multiple formats", "Download options"],
-    "icon": "PenTool"
+    "features": ["Multi-language support", "Error detection", "Code suggestions"],
+    "icon": "💻"
   },
   {
     "id": 4,
-    "name": "LinkedIn Optimizer",
-    "description": "Boost your LinkedIn profile visibility.",
-    "price": 14.99,
-    "period": "monthly",
-    "tag": "popular",
-    "tagType": "popular",
-    "features": [
-      "Profile analysis",
-      "Keyword suggestions",
-      "Headline generator"
-    ],
-    "icon": "Linkedin"
+    "name": "SEO Booster",
+    "description": "Improve your website ranking with automated SEO audits and recommendations.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": ["Keyword analysis", "Backlink tracking", "Competitor insights"],
+    "icon": "🚀"
   },
   {
     "id": 5,
-    "name": "Job Tracker",
-    "description": "Track all your job applications in one place.",
-    "price": 0,
+    "name": "Social Scheduler",
+    "description": "Plan, schedule, and analyze your social media posts across multiple platforms.",
+    "price": 19,
     "period": "monthly",
-    "tag": "new",
-    "tagType": "new",
-    "features": ["Application tracking", "Status updates", "Reminders"],
-    "icon": "CheckSquare"
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Auto-posting", "Analytics dashboard", "Multi-platform support"],
+    "icon": "📅"
   },
   {
     "id": 6,
-    "name": "Interview Prep Kit",
-    "description": "Practice common interview questions with AI feedback.",
-    "price": 12.99,
+    "name": "Presentation Wizard",
+    "description": "Create professional slides and presentations with AI-powered design suggestions.",
+    "price": 39,
     "period": "monthly",
-    "tag": "best seller",
-    "tagType": "best seller",
-    "features": ["Mock interviews", "AI feedback", "Question bank"],
-    "icon": "Mic"
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Slide templates", "AI design suggestions", "Export to PPTX"],
+    "icon": "📊"
   },
   {
     "id": 7,
-    "name": "Freelance Proposal Maker",
-    "description": "Create high-converting freelance proposals.",
-    "price": 7.99,
+    "name": "VideoGen AI",
+    "description": "Generate short promotional videos, intros, and social media clips automatically.",
+    "price": 79,
     "period": "monthly",
-    "tag": "popular",
+    "tag": "Popular",
     "tagType": "popular",
-    "features": [
-      "Proposal templates",
-      "Client personalization",
-      "Export options"
-    ],
-    "icon": "Briefcase"
+    "features": ["Video templates", "AI voiceover", "HD export"],
+    "icon": "🎥"
   },
   {
     "id": 8,
-    "name": "Skill Assessment Tool",
-    "description": "Test and showcase your professional skills.",
-    "price": 24.99,
-    "period": "yearly",
-    "tag": "new",
+    "name": "Email Campaign Pro",
+    "description": "Design, automate, and optimize email campaigns to maximize engagement.",
+    "price": 59,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": ["Email automation", "A/B testing", "Analytics tracking"],
+    "icon": "✉️"
+  },
+  {
+    "id": 9,
+    "name": "AI Logo Maker",
+    "description": "Create unique logos for your brand in seconds using AI.",
+    "price": 25,
+    "period": "one-time",
+    "tag": "New",
     "tagType": "new",
-    "features": ["Skill tests", "Certificates", "Performance reports"],
-    "icon": "Award"
+    "features": ["Logo templates", "Custom color schemes", "High-res export"],
+    "icon": "🛡️"
+  },
+  {
+    "id": 10,
+    "name": "Analytics Guru",
+    "description": "Get actionable insights from your website and social media data.",
+    "price": 129,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Traffic analysis", "Conversion tracking", "Custom dashboards"],
+    "icon": "📈"
   }
 ]
