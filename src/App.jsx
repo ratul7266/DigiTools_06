@@ -1,9 +1,11 @@
 import "./App.css";
 import NavBar from "./component/NavBar";
 import Banner from "./component/Banner";
-import User from "./component/User"
+import User from "./component/User";
 import Products from "./component/Products";
 import Steps from "./component/Steps";
+import Pricing from "./component/Pricing";
+import WorkFlow from "./component/WorkFlow";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <User></User>
       <Products></Products>
       <Steps></Steps>
+      <Pricing></Pricing>
+      <WorkFlow></WorkFlow>
     </>
   );
 }
