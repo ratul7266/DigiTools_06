@@ -17,7 +17,7 @@ const Product = ({ product, cart, setCart }) => {
     toast.success("Added to Cart");
   };
 
-  if (!product) return <div>Loading product...</div>; // UI fallback
+  if (!product) return <div>Loading product...</div>; 
 
   return (
     <div className="rounded-xl shadow-md p-10 space-y-3 relative flex flex-col border-2 border-gray-100 transition-all duration-300 ease-in-out hover:-translate-y-2 hover:scale-105 hover:shadow-xl">

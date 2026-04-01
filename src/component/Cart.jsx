@@ -8,7 +8,7 @@ const Cart = ({ cart, setCart }) => {
   const handleRemove = (itemId) => {
     const updatedCart = cart.filter((item) => item.id !== itemId);
     setCart(updatedCart);
-    toast.success("Product remove successfully")
+    toast.warning("Product remove successfully")
   };
 
   const handleCheckout = ()=>{
