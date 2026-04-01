@@ -44,7 +44,7 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className=" bg-linear-to-r from-[#4F39F6] to-[#9514FA] bg-clip-text text-transparent text-4xl font-extrabold  ">
+          <a className=" bg-linear-to-r from-[#4F39F6] to-[#9514FA] bg-clip-text text-transparent text-5xl font-extrabold pb-1 leading-tight">
             DigiTools
           </a>
         </div>

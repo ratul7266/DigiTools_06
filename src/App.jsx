@@ -6,6 +6,7 @@ import Products from "./component/Products";
 import Steps from "./component/Steps";
 import Pricing from "./component/Pricing";
 import WorkFlow from "./component/WorkFlow";
+import Footer from "./component/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Steps></Steps>
       <Pricing></Pricing>
       <WorkFlow></WorkFlow>
+      <Footer></Footer>
     </>
   );
 }
