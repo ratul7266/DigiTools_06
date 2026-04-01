@@ -64,7 +64,7 @@ import NavBar from "./component/NavBar";
 import Pricing from "./component/Pricing";
 import WorkFlow from "./component/WorkFlow";
 import Footer from "./component/Footer";
-import Product from "./component/Product";
+import Product from "./component/Products";
 
 const productsDataFun = async () => {
   const response = await fetch("/products.json");
@@ -81,13 +81,12 @@ function App() {
       <NavBar cart={cart} />
       <Banner />
       <User />
-      <Suspense fallback={<div>Loading products...</div>}>
+      
         <Product
           productsPromise={productsPromise}
           cart={cart}
           setCart={setCart}
         />
-      </Suspense>
       <Steps />
       <Suspense fallback={<div>Loading...</div>}>
         <Pricing />

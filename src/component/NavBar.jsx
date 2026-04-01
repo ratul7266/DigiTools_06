@@ -1,6 +1,6 @@
 import React from "react";
 
-const Navbar = () => {
+const Navbar = ({ cart }) => {
   return (
     <div className="mx-auto container mb-14">
       <div className="navbar bg-base-100 ">
@@ -87,7 +87,7 @@ const Navbar = () => {
                 </svg>
                 {/* Badge (optional) */}
                 <span className="badge badge-sm badge-primary absolute -top-1 -right-1">
-                  3
+                  {cart.length}
                 </span>
               </button>
             </div>

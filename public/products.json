@@ -1,112 +1,122 @@
 [
   {
     "id": 1,
-    "name": "AI Writing Pro",
-    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
-    "price": 29,
-    "period": "monthly",
+    "title": "AI Writing Pro",
     "tag": "Best Seller",
-    "tagType": "best seller",
-    "features": ["Unlimited AI generations", "SEO optimization", "Export to PDF"],
-    "icon": "📝"
+    "image": "https://i.ibb.co/gZBf2mSr/writing-2327400-1.png",
+    "price": 29,
+    "billing": "monthly",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ],
+    "buttonText": "Buy Now"
   },
   {
     "id": 2,
-    "name": "DesignMaster AI",
-    "description": "Create stunning graphics, social media posts, and banners effortlessly.",
-    "price": 49,
-    "period": "monthly",
+    "title": "ImageForge AI",
     "tag": "Popular",
-    "tagType": "popular",
-    "features": ["AI-powered templates", "Drag-and-drop editor", "High-resolution export"],
-    "icon": "🎨"
+    "image": "https://i.ibb.co/0jX7YkZ/ai-image-generator.jpg",
+    "price": 39,
+    "billing": "monthly",
+    "description": "Create stunning images, artwork, and designs from simple text descriptions.",
+    "features": [
+      "Text-to-Image generation",
+      "4K Ultra HD output",
+      "Style customization"
+    ],
+    "buttonText": "Buy Now"
   },
   {
     "id": 3,
-    "name": "CodeBuddy AI",
-    "description": "AI assistant to help you write, debug, and optimize your code in multiple languages.",
-    "price": 59,
-    "period": "monthly",
+    "title": "CodeMaster AI",
     "tag": "New",
-    "tagType": "new",
-    "features": ["Multi-language support", "Error detection", "Code suggestions"],
-    "icon": "💻"
+    "image": "https://i.ibb.co/3hK7pLq/ai-coding.jpg",
+    "price": 49,
+    "billing": "monthly",
+    "description": "AI-powered coding assistant that writes, debugs, and optimizes your code instantly.",
+    "features": [
+      "Support 30+ programming languages",
+      "Auto debugging",
+      "Code explanation"
+    ],
+    "buttonText": "Buy Now"
   },
   {
     "id": 4,
-    "name": "SEO Booster",
-    "description": "Improve your website ranking with automated SEO audits and recommendations.",
-    "price": 99,
-    "period": "yearly",
+    "title": "VideoGenius AI",
     "tag": "Best Seller",
-    "tagType": "best seller",
-    "features": ["Keyword analysis", "Backlink tracking", "Competitor insights"],
-    "icon": "🚀"
+    "image": "https://i.ibb.co/5YvL2mN/ai-video-generator.png",
+    "price": 59,
+    "billing": "monthly",
+    "description": "Turn text into professional videos with AI avatars, voiceovers, and animations.",
+    "features": [
+      "Text to Video",
+      "Realistic AI avatars",
+      "Auto voiceover"
+    ],
+    "buttonText": "Buy Now"
   },
   {
     "id": 5,
-    "name": "Social Scheduler",
-    "description": "Plan, schedule, and analyze your social media posts across multiple platforms.",
-    "price": 19,
-    "period": "monthly",
+    "title": "ChatBot Builder",
     "tag": "Popular",
-    "tagType": "popular",
-    "features": ["Auto-posting", "Analytics dashboard", "Multi-platform support"],
-    "icon": "📅"
+    "image": "https://i.ibb.co/8XzqR7P/chatbot-ai.jpg",
+    "price": 25,
+    "billing": "monthly",
+    "description": "Build intelligent AI chatbots for your website and business without coding.",
+    "features": [
+      "No-code builder",
+      "Multi-language support",
+      "Analytics dashboard"
+    ],
+    "buttonText": "Buy Now"
   },
   {
     "id": 6,
-    "name": "Presentation Wizard",
-    "description": "Create professional slides and presentations with AI-powered design suggestions.",
-    "price": 39,
-    "period": "monthly",
+    "title": "VoiceClone AI",
     "tag": "New",
-    "tagType": "new",
-    "features": ["Slide templates", "AI design suggestions", "Export to PPTX"],
-    "icon": "📊"
+    "image": "https://i.ibb.co/4pK9mNv/ai-voice.jpg",
+    "price": 35,
+    "billing": "monthly",
+    "description": "Clone any voice in seconds and generate natural-sounding speech for podcasts & videos.",
+    "features": [
+      "Voice cloning",
+      "Emotion control",
+      "50+ languages"
+    ],
+    "buttonText": "Buy Now"
   },
   {
     "id": 7,
-    "name": "VideoGen AI",
-    "description": "Generate short promotional videos, intros, and social media clips automatically.",
-    "price": 79,
-    "period": "monthly",
-    "tag": "Popular",
-    "tagType": "popular",
-    "features": ["Video templates", "AI voiceover", "HD export"],
-    "icon": "🎥"
+    "title": "ResumeAI Pro",
+    "tag": "Best Seller",
+    "image": "https://i.ibb.co/6nR2vLq/resume-ai.png",
+    "price": 19,
+    "billing": "monthly",
+    "description": "Create ATS-friendly professional resumes and cover letters in minutes using AI.",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "buttonText": "Buy Now"
   },
   {
     "id": 8,
-    "name": "Email Campaign Pro",
-    "description": "Design, automate, and optimize email campaigns to maximize engagement.",
-    "price": 59,
-    "period": "monthly",
-    "tag": "Best Seller",
-    "tagType": "best seller",
-    "features": ["Email automation", "A/B testing", "Analytics tracking"],
-    "icon": "✉️"
-  },
-  {
-    "id": 9,
-    "name": "AI Logo Maker",
-    "description": "Create unique logos for your brand in seconds using AI.",
-    "price": 25,
-    "period": "one-time",
-    "tag": "New",
-    "tagType": "new",
-    "features": ["Logo templates", "Custom color schemes", "High-res export"],
-    "icon": "🛡️"
-  },
-  {
-    "id": 10,
-    "name": "Analytics Guru",
-    "description": "Get actionable insights from your website and social media data.",
-    "price": 129,
-    "period": "yearly",
+    "title": "SocialBoost AI",
     "tag": "Popular",
-    "tagType": "popular",
-    "features": ["Traffic analysis", "Conversion tracking", "Custom dashboards"],
-    "icon": "📈"
+    "image": "https://i.ibb.co/9kP3mQx/social-media-ai.jpg",
+    "price": 27,
+    "billing": "monthly",
+    "description": "Generate viral social media posts, captions, and content calendars automatically.",
+    "features": [
+      "Post generation",
+      "Hashtag optimizer",
+      "Trending suggestions"
+    ],
+    "buttonText": "Buy Now"
   }
 ]
