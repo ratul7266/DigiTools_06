@@ -43,7 +43,7 @@ const Cart = ({ cart, setCart }) => {
                 <div>
                   <button
                     onClick={() => handleRemove(item.id)}
-                    className="btn text-red-500 font-bold text-xl bg-transparent"
+                    className="btn border-none text-red-500 font-bold text-xl bg-transparent"
                   >
                     Remove
                   </button>
